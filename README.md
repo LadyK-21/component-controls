@@ -106,5 +106,5 @@ Many developments have contributed to the creation of `component-controls`, a fe
 -   [x] Integrated testing facilites
 -   [x] Design tokens componnets to document design systems
 -   [x] Support frontmatter MDX declarations
--   [ ] Multiple frameworks support (Vue, Angular, tbd)
--   [ ] Coverage and performance profiling instrumentation
+-   [x] Multiple frameworks support (Vue, Angular, tbd)
+-   [x] Coverage and performance profiling instrumentation
